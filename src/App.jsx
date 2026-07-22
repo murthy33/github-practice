@@ -10,6 +10,7 @@ function App() {
   return (
     <>
       <div>Hello</div>
+      <p>Paragraph</p>
     </>
   )
 }
