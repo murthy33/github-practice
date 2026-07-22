@@ -13,6 +13,7 @@ function App() {
       <p>Paragraph</p>
       <a href="https://www.youtube.com/">youtube</a>
       <p>login feature</p>
+      <p>Footer</p>
     </>
   )
 }
